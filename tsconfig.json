@@ -1,12 +1,10 @@
 {
   "compilerOptions": {
+    "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "declaration": true,
     "experimentalDecorators": true,
-    "lib": [
-      "dom",
-      "es2015"
-    ],
+    "lib": ["dom", "es2015"],
     "module": "es2015",
     "moduleResolution": "node",
     "noImplicitAny": true,
@@ -16,7 +14,5 @@
     "sourceMap": true,
     "target": "es2015"
   },
-  "files": [
-    "src/index.ts"
-  ]
+  "files": ["src/index.ts"]
 }

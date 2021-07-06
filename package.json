@@ -18,17 +18,20 @@
   "author": "Stewan Silva",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "^2.0.0"
+    "@capacitor/core": "^3.0.0",
+    "@capacitor/ios": "^3.0.2"
   },
   "devDependencies": {
     "all-contributors-cli": "^6.16.0",
-    "typescript": "^2.6.2"
+    "typescript": "^3.7.3",
+    "rollup": "^2.52.7",
+    "rollup-plugin-node-resolve": "^5.2.0"
   },
   "files": [
     "dist/",
     "ios/",
     "android/",
-    "CapacitorCommunityIntercom.podspec"
+    "SimplifieldCapacitorIntercom.podspec"
   ],
   "keywords": [
     "capacitor",
