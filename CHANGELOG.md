@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/capacitor-community/intercom/compare/v2.0.0...v2.1.0) (2021-07-07)
+
+
+### Features
+
+* **capacitor:** upgrade to v3 ([e3a2888](https://github.com/capacitor-community/intercom/commit/e3a2888309b7f8ec2b2adcb72f51284563c96b58))
+
 ## [2.0.0](https://github.com/capacitor-community/intercom/compare/v1.1.0...v2.0.0) (2021-06-27)
 
 - update intercom dep for ios
