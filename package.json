@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/intercom",
+  "name": "@simplifield/intercom",
   "version": "3.0.1",
   "description": "Enable Intercom features for Capacitor apps",
   "main": "dist/plugin.cjs.js",
@@ -54,7 +54,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityIntercom.podspec"
+    "SimplifieldIntercom.podspec"
   ],
   "keywords": [
     "capacitor",
